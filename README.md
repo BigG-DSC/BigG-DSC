@@ -11,5 +11,3 @@ Currently working:
 - On smartphone applications 📲
 - On blockchain :globe_with_meridians: 
 - On artificial intelligence 🤖
-
-Fun fact: Yes, It happens that sometimes I have a life 🥶
