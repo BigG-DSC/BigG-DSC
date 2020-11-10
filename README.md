@@ -3,7 +3,7 @@
 I am a:
 - Industrial PhD Researcher in Digital Health @ University of Urbino 👨🏻‍🏫
 - Data Scientist forged by EIT Digital 🧙‍♂️
-- Computer Science Engineer in Italy and Spain @ Politecnico di Milano and Universidad Politécnica de Madrid 🛠️
+- Computer Science Engineer @ Politecnico di Milano and Universidad Politécnica de Madrid 🛠️
 
 Currently working:
 - On papers 📜
