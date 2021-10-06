@@ -11,3 +11,5 @@ Currently working:
 - On smartphone applications 📲
 - On blockchain :globe_with_meridians: 
 - On artificial intelligence 🤖
+
+Take a look at my Website: https://gbigini.com
