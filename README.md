@@ -1,14 +1,16 @@
 # Welcome!
 
-I am a:
-- Industrial PhD Researcher in Digital Health @ University of Urbino 👨🏻‍🏫
-- Data Scientist @ EIT Digital 🧙‍♂️
+I am a Data Engineer and Blockchain Dev:
+- PhD Researcher in Blockchain
 - Computer Science Engineer @ Politecnico di Milano and Universidad Politécnica de Madrid 🛠️
 
-Currently working:
-- On papers 📜
-- On smartphone applications 📲
-- On decentralized finance :globe_with_meridians: 
-- On artificial intelligence 🤖
+Current roles:
+- Blockchain Researcher
+- Full-Stack Engineer
+
+Current works:
+- Scientific Papers 📜
+- Web3 📲 Decentralized Finance
+- Web5 🌐 Decentralized Healthcare 🩺 Decentralized Artificial Intelligence 🤖 
 
 Take a look at my Website: https://gbigini.com
