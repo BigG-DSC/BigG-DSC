@@ -5,8 +5,8 @@ I am a Data Engineer and Blockchain Dev:
 - Computer Science Engineer @ Politecnico di Milano and Universidad Politécnica de Madrid 🛠️
 
 Current roles:
-- Blockchain Researcher
-- Full-Stack Engineer
+- Blockchain Researcher 👨‍🔬 
+- Full-Stack Engineer ⚙️
 
 Current works:
 - Scientific Papers 📜
