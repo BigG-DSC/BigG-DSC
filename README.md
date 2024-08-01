@@ -7,6 +7,7 @@ I am a Data Engineer and Blockchain Dev:
 Current roles:
 - Blockchain Researcher 👨‍🔬 
 - Full-Stack Engineer ⚙️
+- Smart Contract Developer 📜
 
 Current works:
 - Scientific Papers 📜
